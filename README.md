@@ -1,5 +1,7 @@
 # moonCalendar
 
+[깃헙 링크(fork상 main만 copy됨)](https://github.com/sm-CODE-IT/moonCalendar)
+
 ## ✨ Contributions
 |김민희|김정윤|손수경|윤소영|
 |------|------|------|------|
